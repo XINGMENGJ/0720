@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	printf("There is nothing");
+	printf("Now is smonething here");
 	return 0;
 }
 
